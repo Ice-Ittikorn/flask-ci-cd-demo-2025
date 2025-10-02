@@ -1,0 +1,9 @@
+# Database Configuration
+POSTGRES_DB=mydb
+POSTGRES_USER=postgres
+POSTGRES_PASSWORD=xONZb76HdbcmkPdRnUsIWIKWuQnQ5mN9
+
+# Application Configuration
+FLASK_ENV=development
+SECRET_KEY=HFQunxziOX4QKNauu9UV_D968VtWMb719bVqyjzchNk
+
